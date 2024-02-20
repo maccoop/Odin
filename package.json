@@ -3,20 +3,6 @@
   "displayName": "Odin Inspector",
   "description": "Odin Clone",
   "version": "3.1.14.2",
-  "unity": "2020.3.11f1",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/maccoop/Odin.git"
-  },
-  "author": {
-    "name": "maccoop",
-    "email": "sang.cntt.unity@gmail.com",
-    "url": "https://github.com/maccoop"
-  },
-  "dependencies": {
-    "com.unity.mathematics": "1.2.6"
-  },
   "samples": [
     {
       "displayName": "Demo",
