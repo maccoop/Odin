@@ -17,10 +17,6 @@
   "dependencies": {
     "com.unity.mathematics": "1.2.6"
   },
-  "keywords": [
-    "Editor",
-    "Application Editor"
-  ],
   "samples": [
     {
       "displayName": "Demo",
